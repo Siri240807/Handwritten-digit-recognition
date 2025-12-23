@@ -4,7 +4,7 @@ A real-time handwritten digit recognition application built with Python, Pygame,
 
 ## 🎥 Demo
 
-Check out the sample output video: [sample.mp4](sample.mp4)
+<video src="sample.mp4" controls="controls" width="640" height="480"></video>
 
 ## 🚀 Features
 
@@ -66,4 +66,5 @@ To ensure the AI understands your drawing, the application performs several prep
 ## 📝 Notes
 
 - For best results, draw the number clearly in the center.
+
 - If the prediction is wrong, press 'n' to clear the canvas completely before drawing again.
